@@ -44,5 +44,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto foi desenvolvido pelo **Mayk Brito** e apresentado no canal da **Rocketseat**, tendo como objetivo apresentar a função **has** do css para realizar alteração de tema.
-Foi aplicado o JS para realizar tal ação, pois nem todos os navegadores suporta a função (até o momento).
+O projeto foi desenvolvido pelo **Mayk Brito** e apresentado no canal da **Rocketseat**, tendo como objetivo apresentar a função **has** do css para realizar alteração de tema da interface.
+Também foi aplicado o JS para realizar a mesma ação, pois nem todos os navegadores estão com o suporte da função.
